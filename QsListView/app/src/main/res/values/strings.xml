@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">QsListView</string>
+
+
+
+    // load more
+    <string name="load_more_loading_text">加载中...</string>
+    <string name="load_more_finish_text">没有更多的了</string>
+</resources>
